@@ -1,4 +1,4 @@
-const API_URL = "https://projeto-simples-back-d3c9.onrender.com";
+const API_URL = "https://atividade-cicd-back-vitormorais.onrender.com";
 
 async function carregarStatus() {
 
